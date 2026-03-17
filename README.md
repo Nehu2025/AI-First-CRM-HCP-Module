@@ -2,12 +2,10 @@
 
 Log Interaction Screen (Simple idea)
 User (sales person) can:
+
 Option 1: Form
 
-Doctor Name
-Date
-Notes
-Product discussed
+Doctor Name->Date->Notes->Product discussed
 
 Next follow-up
 
