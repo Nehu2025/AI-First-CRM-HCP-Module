@@ -1,4 +1,3 @@
-# AI-First-CRM-HCP-Module
 # AI CRM HCP Module
 
 ## Tech Stack
